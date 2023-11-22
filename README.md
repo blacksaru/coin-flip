@@ -4,7 +4,7 @@
 https://sol-coinflip.vercel.app/
 -> Runs in devnet
 Run
-### Provable Coin Flip Program on Solana
+### Provable Coin Flip Program on Solana.
 The app consists of a vendor and a player. 
 1. Player triggers a coin flip game by selecting side and the amount of SOL to bet. 
 2. Vendor creates a CoinFlip game on-chain and saves the bet of the user and sends the equal amount of SOL to CoinFlip PDA. In this step, vendor generates a random seed to be used in the coin flip.
